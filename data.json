@@ -1,0 +1,49 @@
+{
+  "basics":{
+    "name":"honey",
+    "role":"student",
+    "mobile":"+917650925157",
+    "email":"kommalapati.haneeshachowdary@gmail.com"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B.tech(Computer Science & Engineering)",
+      "institute":"Vignan Nirula",
+      "data":["2016-2020","85%"]
+    },
+    {
+        "degree":"Diploma(CME)",
+        "institute":"St.Anns",
+        "data":["2014-2017","85%"]
+      },
+      {
+          "degree":"S.S.C",
+          "institute":"Sri Chaitanya",
+          "data":["2013-2014","85%"]
+        }
+      ],
+      "skills":[
+        {
+          "title":"programming languages",
+          "content":["python","c","java","c++","DS"]
+        },
+        {
+          "title":"Data Bases",
+        "content":["sql","oracle","mysql"]
+      },
+      {
+        "title":"web Technologies",
+      "content":["HTML","XML","javascript"]
+    },
+    {
+      "title":"Operating system",
+    "content":["windows","unix","Linux"]
+    }
+      ]
+}
